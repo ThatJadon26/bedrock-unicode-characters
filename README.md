@@ -11,38 +11,38 @@ Minecraft uses resource packs to assign characters (glyphs) to different unicode
 
 |               Name               |   Platform   | Character | Unicode |                     In game                    |
 |:--------------------------------:|:------------:|:---------:|:-------:|:----------------------------------------------:|
-|             A Button             |     X-Box    |          |  U+E000 |            ![](./images/xbox-a.png)            |
-|             B Button             |     X-Box    |          |  U+E001 |            ![](./images/xbox-b.png)            |
-|             X Button             |     X-Box    |          |  U+E002 |            ![](./images/xbox-x.png)            |
-|             Y Button             |     X-Box    |          |  U+E003 |            ![](./images/xbox-y.png)            |
-|             LB Button            |     X-Box    |          |  U+E004 |            ![](./images/xbox-lb.png)           |
-|             RB Button            |     X-Box    |          |  U+E005 |            ![](./images/xbox-rb.png)           |
-|             LT Button            |     X-Box    |          |  U+E006 |            ![](./images/xbox-lt.png)           |
-|             RT Button            |     X-Box    |          |  U+E007 |            ![](./images/xbox-rt.png)           |
-|           Select Button          |     X-Box    |          |  U+E008 |          ![](./images/xbox-select.png)         |
-|           Start Button           |     X-Box    |          |  U+E009 |          ![](./images/xbox-start.png)          |
-|         Left Stick Button        |     X-Box    |          |  U+E00A |            ![](./images/xbox-ls.png)           |
-|        Right Stick Button        |     X-Box    |          |  U+E00B |            ![](./images/xbox-rs.png)           |
-|          D-Pad Up Button         |     X-Box    |          |  U+E00C |           ![](./images/xbox-d-up.png)          |
-|         D-Pad Left Button        |     X-Box    |          |  U+E00D |          ![](./images/xbox-d-left.png)         |
-|         D-Pad Down Button        |     X-Box    |          |  U+E00E |          ![](./images/xbox-d-down.png)         |
-|        D-Pad Right Button        |     X-Box    |          |  U+E00F |         ![](./images/xbox-d-right.png)         |
-|           Cross Button           | Play Station |          |  U+E020 |             ![](./images/ps-x.png)             |
-|           Circle Button          | Play Station |          |  U+E021 |             ![](./images/ps-o.png)             |
-|           Square Button          | Play Station |          |  U+E022 |           ![](./images/ps-square.png)          |
-|          Triangle Button         | Play Station |          |  U+E023 |          ![](./images/ps-triangle.png)         |
-|             L1 Button            | Play Station |          |  U+E024 |             ![](./images/ps-l1.png)            |
-|             R1 Button            | Play Station |          |  U+E025 |             ![](./images/ps-r1.png)            |
-|             L2 Button            | Play Station |          |  U+E026 |             ![](./images/ps-l2.png)            |
-|             R2 Button            | Play Station |          |  U+E027 |             ![](./images/ps-r2.png)            |
-|           Select Button          | Play Station |          |  U+E028 |           ![](./images/ps-select.png)          |
-|           Start Button           | Play Station |          |  U+E029 |           ![](./images/ps-start.png)           |
-|         Left Stick Button        | Play Station |          |  U+E02A |             ![](./images/ps-l3.png)            |
-|        Right Stick Button        | Play Station |          |  U+E02B |             ![](./images/ps-r3.png)            |
-|          D-Pad Up Button         | Play Station |          |  U+E02C |            ![](./images/ps-d-up.png)           |
-|         D-Pad Left Button        | Play Station |          |  U+E02D |           ![](./images/ps-d-left.png)          |
-|         D-Pad Down Button        | Play Station |          |  U+E02E |           ![](./images/ps-d-down.png)          |
-|        D-Pad Right Button        | Play Station |          |  U+E02F |          ![](./images/ps-d-right.png)          |
+|             A Button             |     Xbox     |          |  U+E000 |            ![](./images/xbox-a.png)            |
+|             B Button             |     Xbox     |          |  U+E001 |            ![](./images/xbox-b.png)            |
+|             X Button             |     Xbox     |          |  U+E002 |            ![](./images/xbox-x.png)            |
+|             Y Button             |     Xbox     |          |  U+E003 |            ![](./images/xbox-y.png)            |
+|             LB Button            |     Xbox     |          |  U+E004 |            ![](./images/xbox-lb.png)           |
+|             RB Button            |     Xbox     |          |  U+E005 |            ![](./images/xbox-rb.png)           |
+|             LT Button            |     Xbox     |          |  U+E006 |            ![](./images/xbox-lt.png)           |
+|             RT Button            |     Xbox     |          |  U+E007 |            ![](./images/xbox-rt.png)           |
+|           Select Button          |     Xbox     |          |  U+E008 |          ![](./images/xbox-select.png)         |
+|           Start Button           |     Xbox     |          |  U+E009 |          ![](./images/xbox-start.png)          |
+|         Left Stick Button        |     Xbox     |          |  U+E00A |            ![](./images/xbox-ls.png)           |
+|        Right Stick Button        |     Xbox     |          |  U+E00B |            ![](./images/xbox-rs.png)           |
+|          D-Pad Up Button         |     Xbox     |          |  U+E00C |           ![](./images/xbox-d-up.png)          |
+|         D-Pad Left Button        |     Xbox     |          |  U+E00D |          ![](./images/xbox-d-left.png)         |
+|         D-Pad Down Button        |     Xbox     |          |  U+E00E |          ![](./images/xbox-d-down.png)         |
+|        D-Pad Right Button        |     Xbox     |          |  U+E00F |         ![](./images/xbox-d-right.png)         |
+|           Cross Button           | PlayStation  |          |  U+E020 |             ![](./images/ps-x.png)             |
+|           Circle Button          | PlayStation  |          |  U+E021 |             ![](./images/ps-o.png)             |
+|           Square Button          | PlayStation  |          |  U+E022 |           ![](./images/ps-square.png)          |
+|          Triangle Button         | PlayStation  |          |  U+E023 |          ![](./images/ps-triangle.png)         |
+|             L1 Button            | PlayStation  |          |  U+E024 |             ![](./images/ps-l1.png)            |
+|             R1 Button            | PlayStation  |          |  U+E025 |             ![](./images/ps-r1.png)            |
+|             L2 Button            | PlayStation  |          |  U+E026 |             ![](./images/ps-l2.png)            |
+|             R2 Button            | PlayStation  |          |  U+E027 |             ![](./images/ps-r2.png)            |
+|           Select Button          | PlayStation  |          |  U+E028 |           ![](./images/ps-select.png)          |
+|           Start Button           | PlayStation  |          |  U+E029 |           ![](./images/ps-start.png)           |
+|         Left Stick Button        | PlayStation  |          |  U+E02A |             ![](./images/ps-l3.png)            |
+|        Right Stick Button        | PlayStation  |          |  U+E02B |             ![](./images/ps-r3.png)            |
+|          D-Pad Up Button         | PlayStation  |          |  U+E02C |            ![](./images/ps-d-up.png)           |
+|         D-Pad Left Button        | PlayStation  |          |  U+E02D |           ![](./images/ps-d-left.png)          |
+|         D-Pad Down Button        | PlayStation  |          |  U+E02E |           ![](./images/ps-d-down.png)          |
+|        D-Pad Right Button        | PlayStation  |          |  U+E02F |          ![](./images/ps-d-right.png)          |
 |             A Button             |   Nintendo   |          |  U+E040 |          ![](./images/nintendo-a.png)          |
 |             B Button             |   Nintendo   |          |  U+E041 |          ![](./images/nintendo-b.png)          |
 |             X Button             |   Nintendo   |          |  U+E042 |          ![](./images/nintendo-x.png)          |
